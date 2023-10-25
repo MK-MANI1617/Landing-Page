@@ -13,3 +13,6 @@ A landing page template.
 You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
 
 # OUTPUT
+![Screenshot (6)](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/b742269e-5f22-4358-8dd8-c7568e362bf7)
+![Screenshot (7)](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/a5541480-c5d7-4456-86c5-b788f905d369)
+![Screenshot (11)](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/fbfa7b90-642d-4306-bf05-bb8344ea3700)
