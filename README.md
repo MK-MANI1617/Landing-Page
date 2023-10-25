@@ -1,20 +1,13 @@
-Landing-Page
+# Solid
 
+A landing page template.
 
-This is a Landing page of E-kart.
+* [Getting started](#getting-started)
 
+## Getting started
+* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
+* This template requires Node 14 to work. You can handle multiple node versions with [NVM](https://github.com/nvm-sh/nvm) 
+* Next, use your command line to enter your project directory.
+* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
 
-![1](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/22da4edf-8327-4084-a1c6-5ad56d35c5ac)
-
-
-![2](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/4466fc40-d410-46a6-b469-c8521f98dcb5)
-
-
-![3](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/142b775c-83f1-4db6-8107-48dce0385888)
-
-
-![4](https://github.com/MK-MANI1617/Landing-Page/assets/131427160/e6906892-8166-468d-a546-ed6391100fd7)
-
-
-
-
+You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
